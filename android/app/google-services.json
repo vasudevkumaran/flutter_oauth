@@ -1,0 +1,387 @@
+{
+  "project_info": {
+    "project_number": "469015132841",
+    "firebase_url": "https://devsproject-15c7d.firebaseio.com",
+    "project_id": "devsproject-15c7d",
+    "storage_bucket": "devsproject-15c7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:61fe3cedda2bf9c9dc07b8",
+        "android_client_info": {
+          "package_name": "com.dev.flanly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:07e8bafe9d8c8ba0dc07b8",
+        "android_client_info": {
+          "package_name": "com.flb.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-dpj53p44nusu2v1rv39s80n3rcu3jbd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flb.firelogin",
+            "certificate_hash": "ee78e54fc4f9cef5aad58558b00e51020011d89f"
+          }
+        },
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:7201ea88f144eaf1dc07b8",
+        "android_client_info": {
+          "package_name": "com.flb.flbproj6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-rsohkjkq9diur8kuluhcpf62g42fnas0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flb.flbproj6",
+            "certificate_hash": "ee78e54fc4f9cef5aad58558b00e51020011d89f"
+          }
+        },
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:16501b86d5bd4ed2dc07b8",
+        "android_client_info": {
+          "package_name": "com.vk.flcrperf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:3a72f4868fcb5b23dc07b8",
+        "android_client_info": {
+          "package_name": "com.vk.flnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:30ea2f4f7de1e82adc07b8",
+        "android_client_info": {
+          "package_name": "com.vk.flotpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:285a4c7c416ce44ddc07b8",
+        "android_client_info": {
+          "package_name": "com.vktek.shieldforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:f8bfe92e18c7b866dc07b8",
+        "android_client_info": {
+          "package_name": "dev.fladv.training_day6a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:b81f02263ae71363dc07b8",
+        "android_client_info": {
+          "package_name": "gv.etrs.gvmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469015132841:android:fd6689771779155bdc07b8",
+        "android_client_info": {
+          "package_name": "vtek.etrs.regis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sFlauthGB9319Bg_uDETjqMbuVzRZj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469015132841-c6qn01901aosu1aq43ap9eckpqa4alc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469015132841-2f30g45ivneg1d2dev56hj3mot9oi68f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vtek.etrs.regis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
